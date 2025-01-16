@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, world! 🌟 I'm Harshavardhan, an aspiring AI/ML Engineer with a passion for creating innovative, user-centered solutions. <br>Proficient in C, C++, Python, and skilled in web development, UI/UX design, app development, cybersecurity, and blockchain, I thrive at the intersection of technology and creativity. 🚀<br>With a mission to harness the power of AI and emerging technologies, I am eager to contribute to impactful projects that redefine the way we interact with the digital world. <br>Let's build the future, one line of code at a time! 🌐✨<br>Feel free to connect and collaborate—let's innovate together! 💡
+Hello, world! 🌟 I'm Harshavardhan, an aspiring AI/ML Engineer passionate about creating innovative, user-centered solutions. <br>Proficient in C, C++, Python, and skilled in Software Development, UI/UX design, app development, cybersecurity, and blockchain, I thrive at the intersection of technology and creativity. 🚀<br>With a mission to harness the power of AI and emerging technologies, I am eager to contribute to impactful projects that redefine how we interact with the digital world. <br>Let's build the future, one line of code at a time! 🌐✨<br>Feel free to connect and collaborate—let's innovate together! 💡
 
 
 # 💻 Tech Stack:
